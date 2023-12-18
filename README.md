@@ -1,3 +1,4 @@
+Practice code for basic scripting code in bioinformatics
 1 you have a list with some random no.. Find the max and min number from the list without using max and min function.
 2. taking user input and print the multiplication table of that number.
 3. Take DNA sequence and user input and count how many A T G C are present in that string. print the count of ATGC
