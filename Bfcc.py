@@ -1,5 +1,4 @@
-print("Shree ganeshye namha")
-print("-----")
+# This code is for beginners who are learning Python.
 character_name="Mrunmai"
 character_age="18"
 print("My roommate name is " + character_name)
